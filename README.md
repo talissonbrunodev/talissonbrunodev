@@ -16,7 +16,7 @@
 
 ## 😇 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/csorlandi)
+[![Visits Badge](https://badges.pufler.dev/visits/talissonbrunodev/talissonbrunodev?style=for-the-badge)](https://github.com/talissonbrunodev/talissonbrunodev)
 ![Repos Badge](https://badges.pufler.dev/repos/talissonbrunodev?style=for-the-badge)
 
 <p align = "center">
